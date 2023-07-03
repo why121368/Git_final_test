@@ -17,4 +17,5 @@
 * git checkout feature_1
 * git push origin feature_1(* [new branch]      feature_3 -> feature_3,此时远程Repository里已经还有feature_1分支，但是还未与本地的feature_1建立联系)
 * git push --set-upstream origin feature_1(branch 'feature_1' set up to track 'origin/feature_1'，此后联系正式建立)
+* 合并到主分支，先切换到main，然后git merge feature_1，此时只是在本地merge了，要再git push一下下
 ### Really final test!
