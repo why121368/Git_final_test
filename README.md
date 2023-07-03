@@ -13,4 +13,6 @@
 * git branch -M main
 * git remote add origin https://github.com/why121368/Git_final_test.git
 * git push -u origin main
+* git branch feature_1
+* git checkout feature_1
 * git push origin feature_1
