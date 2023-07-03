@@ -11,5 +11,6 @@
 * git add README.md
 * git commit -m "first commit"
 * git branch -M main
-* git remote add origin https://github.com/why121368/final.git
+* git remote add origin https://github.com/why121368/Git_final_test.git
 * git push -u origin main
+* git push origin feature_1
