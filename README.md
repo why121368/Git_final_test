@@ -1,12 +1,12 @@
 # Git_final_test
-### Ê±¼ä
+### æ—¶é—´
 2023.7.3
-### µØµã
-¹ş¶û±õ¹¤Òµ´óÑ§¿ÆÑ§Ôº2A-714
-### Git³£ÓÃÃüÁî×Ü½á
-* ÔÚGithubÕË»§ÏÂĞÂ½¨Repository
-* ÔÚ±¾µØÏîÄ¿²Ö¿âÂ·¾¶ÏÂ´ò¿ªGit Bash£¨»òVSCode£©
-* echo "# final" >> README.md£¨»òVSCodeÀïĞÂ½¨README.md£©
+### åœ°ç‚¹
+å“ˆå°”æ»¨å·¥ä¸šå¤§å­¦ç§‘å­¦å›­2A-714
+### Gitå¸¸ç”¨å‘½ä»¤æ€»ç»“
+* åœ¨Githubè´¦æˆ·ä¸‹æ–°å»ºRepository
+* åœ¨æœ¬åœ°é¡¹ç›®ä»“åº“è·¯å¾„ä¸‹æ‰“å¼€Git Bashï¼ˆæˆ–VSCodeï¼‰
+* echo "# final" >> README.mdï¼ˆæˆ–VSCodeé‡Œæ–°å»ºREADME.mdï¼‰
 * git init
 * git add README.md
 * git commit -m "first commit"
@@ -15,9 +15,9 @@
 * git push -u origin main
 * git branch feature_1
 * git checkout feature_1
-* git push origin feature_1(* [new branch]      feature_3 -> feature_3,´ËÊ±Ô¶³ÌRepositoryÀïÒÑ¾­»¹ÓĞfeature_1·ÖÖ§£¬µ«ÊÇ»¹Î´Óë±¾µØµÄfeature_1½¨Á¢ÁªÏµ)
-* git push --set-upstream origin feature_1(branch 'feature_1' set up to track 'origin/feature_1'£¬´ËºóÁªÏµÕıÊ½½¨Á¢)
-* ºÏ²¢µ½Ö÷·ÖÖ§£¬ÏÈÇĞ»»µ½main£¬È»ºógit merge feature_1£¬´ËÊ±Ö»ÊÇÔÚ±¾µØmergeÁË£¬ÒªÔÙgit add,git commit,git pushÒ»ÏÂÏÂ
+* git push origin feature_1(* [new branch]      feature_3 -> feature_3,æ­¤æ—¶è¿œç¨‹Repositoryé‡Œå·²ç»è¿˜æœ‰feature_1åˆ†æ”¯ï¼Œä½†æ˜¯è¿˜æœªä¸æœ¬åœ°çš„feature_1å»ºç«‹è”ç³»)
+* git push --set-upstream origin feature_1(branch 'feature_1' set up to track 'origin/feature_1'ï¼Œæ­¤åè”ç³»æ­£å¼å»ºç«‹)
+* åˆå¹¶åˆ°ä¸»åˆ†æ”¯ï¼Œå…ˆåˆ‡æ¢åˆ°mainï¼Œç„¶ågit merge feature_1ï¼Œæ­¤æ—¶åªæ˜¯åœ¨æœ¬åœ°mergeäº†ï¼Œè¦å†git add,git commit,git pushä¸€ä¸‹ä¸‹
 ### Really final test!
 <<<<<<< HEAD
 =======
